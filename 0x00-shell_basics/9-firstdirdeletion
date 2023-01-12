@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir /tmp/holbertonschools-system_engineering-devops/0x00-shell_basics/9-firstdirdeletion
+rmdir /tmp/my_first_directory
