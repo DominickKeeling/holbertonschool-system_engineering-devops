@@ -1,5 +1,2 @@
 #!/bin/bash
-funct_1 () {
-	local Best
-	Best=School
-}
+export Best=School
