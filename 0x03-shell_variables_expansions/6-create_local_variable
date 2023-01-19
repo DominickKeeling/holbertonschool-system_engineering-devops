@@ -1,2 +1,3 @@
 #!/bin/bash
-local Best=School
+{local Best
+	Best=School}
