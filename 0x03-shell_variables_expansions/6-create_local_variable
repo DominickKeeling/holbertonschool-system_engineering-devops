@@ -1,3 +1,5 @@
 #!/bin/bash
-{local Best
-	Best=School}
+funct_1 () {
+	local Best
+	Best=School
+}
