@@ -1,3 +1,6 @@
 #!/bin/bash/env bash
-# writing a bash script that displays Best school 10 times
-for _ in {0..9}; do echo "Best School"; done
+#writing a bash script that displays Best school 10 times
+for _ in {1..10}
+do
+	echo "Best School"
+done
